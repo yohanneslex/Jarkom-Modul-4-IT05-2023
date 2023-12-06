@@ -136,3 +136,21 @@ Lakukan langkah routing tambahan tersebut untuk setiap subnet yang memiliki perc
 
 
 ### Metode CIDR Menggunakan GNS3
+
+
+#### Topologi
+![topologi](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/a2f76516-7b59-422f-b3eb-a25e982e0d63)
+
+#### Tree
+Tree hasil penggabungan dan perhitungan sebagai berikut
+![CIDR_Arkan_lasttenan](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/4263cb09-e0d4-43d6-95a0-94817635439a)
+
+#### Konfigurasi IP
+Untuk pembagian IP berdasarkan perhitungan dari Tree yang telah di buat
+![konfigurasi IP](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/58c95d3c-d416-46ae-a662-3789be4f02c0)
+
+#### Pembagian IP
+Untuk gabungan IP hasil dari menggabungkan beberapa node seperti berikut
+![gabung 1](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/49004a0c-71e6-4818-9328-fd65b2513e4a)
+![gabung 2](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/af3cc723-579a-4d07-8cbb-44fe9e8415e0)
+![gabung 3](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/106576632/b3b3413d-4373-4fca-b7b4-5dcb94f3cbbc)
