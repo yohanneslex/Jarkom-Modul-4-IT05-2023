@@ -6,7 +6,9 @@ Arkan Hendri Abdul Ghani Burhan - 5027211026
 
 ## Soal
 Berikut gambar topologi yang harus dibuat
-[gambar topologi]
+
+![topologiCPT](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/8e67e3e5-9551-4460-8248-e2bbbb733117)
+
 
 1. Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
 Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
