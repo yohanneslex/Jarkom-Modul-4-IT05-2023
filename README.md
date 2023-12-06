@@ -21,7 +21,7 @@ Untuk di GNS3 CLOUD merupakan NAT1 jangan sampai salah agar bisa terkoneksi inte
 ### Metode VLSM Menggunakan CPT
 Langkah pertama yaitu membuat tree IP seperti tabel berikut ini
 
-![Screenshot 2023-11-28 235649](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/9a7e761d-7b03-4301-8ce5-1c9bc3c81afa)
+![tree vlsm it05](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/cea13981-9c82-4251-a0a1-d62273e35d34)
 
 
 Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP tersebut seperti gambar berikut ini
@@ -53,7 +53,7 @@ Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP terse
 Setelah dilakukannya pembagian IP, maka mulai membuat topologi menggunakan Cisco Packet Tracer (CPT) seperti gambar berikut
 
 
-[gampar cpt]
+![Screenshot 2023-11-28 235649](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/9a7e761d-7b03-4301-8ce5-1c9bc3c81afa)
 
 Selanjutnya melakukan subneting yang bergantung terhadap subnet yang akan dilalui, dengan contoh subnet A20 antara Aura (Eth 1/0) dan Denken (Fa 0/0) dan Subnet A21 antara Denken (Fa 0/1) dan PC RoyalCapital (Fa 0), seperti gambar berikut:
 
@@ -100,9 +100,12 @@ Kemudian dilakukannya routing  terhadap subnet yang ingin dituju dengan mengisi 
 
 Lakukan langkah subneting dan routing untuk seluruhnya sampai setiap PC atau Server dapat melakukan ping sampai ke Aura.
 
-Kemudian untuk melakukan ping dari PC atau server atau bahkan router yang berasal dari percabangan subnet yang berbeda, diperlukan langkah tambahan pada routing maju terhadap subnet percabangan tersebut.
 
-Dengan contoh pada Subnet A3 memiliki 3 percabangan yaitu A4, A6, dan A7. Maka ditambahkan langkah routing maju untuk ketiga subnet tersebut pada subnet A3 yaitu dari Frieren (Eth 1/0) menuju Flamme (Fa 0/0)
+Kemudian untuk melakukan ping dari PC atau server atau bahkan router yang berasal dari percabangan subnet yang berbeda, diperlukan langkah tambahan pada routing maju terhadap subnet percabangan tersebut. Dengan contoh pada Subnet A3 memiliki 3 percabangan yaitu A4, A6, dan A7. Seperti gambar berikut :
+
+![cabang_A4_A6_A7](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/cb7aa1b6-7f63-4ef0-afaf-4651c262ca45)
+
+Maka ditambahkan langkah routing maju untuk ketiga subnet tersebut pada subnet A3 yaitu dari Frieren (Eth 1/0) menuju Flamme (Fa 0/0)
 
 1. Routing A4 pada Frieren menuju Flamme
 
