@@ -6,8 +6,8 @@ Arkan Hendri Abdul Ghani Burhan - 5027211026
 
 ## Soal
 Berikut gambar topologi yang harus dibuat
+![Screenshot 2023-11-28 235649](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/9a7e761d-7b03-4301-8ce5-1c9bc3c81afa)
 
-![topologiCPT](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/8e67e3e5-9551-4460-8248-e2bbbb733117)
 
 
 1. Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
@@ -52,8 +52,8 @@ Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP terse
 
 Setelah dilakukannya pembagian IP, maka mulai membuat topologi menggunakan Cisco Packet Tracer (CPT) seperti gambar berikut
 
+![topologiCPT](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/8e67e3e5-9551-4460-8248-e2bbbb733117)
 
-![Screenshot 2023-11-28 235649](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/9a7e761d-7b03-4301-8ce5-1c9bc3c81afa)
 
 Selanjutnya melakukan subneting yang bergantung terhadap subnet yang akan dilalui, dengan contoh subnet A20 antara Aura (Eth 1/0) dan Denken (Fa 0/0) dan Subnet A21 antara Denken (Fa 0/1) dan PC RoyalCapital (Fa 0), seperti gambar berikut:
 
@@ -74,13 +74,13 @@ Selanjutnya melakukan subneting yang bergantung terhadap subnet yang akan dilalu
 
 4. Subnetting pada RoyalCapital melalui Fa 0 pada Subnet A21
 
-![royalCapital_A21](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/30992326-fd9c-4b9b-804b-b2463ddc3e43)
 
+![royalCapital_A21](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/381bbae9-6f7f-4d0e-86ce-ed68490b0930)
 
 
 Terkhusus pada Server dan PC, diperlukan konfigurasi tambahan yakni pada tab desktop dan opsi Ip Configuration untuk menambahkan Default Gateway dari IP router yang menyambungkannya yakni Denken melalui Fa 0/1, seperti gambar berikut
 
-![royalCapital_A21](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/381bbae9-6f7f-4d0e-86ce-ed68490b0930)
+![royalCapital_IPconfig](https://github.com/yohanneslex/Jarkom-Modul-4-IT05-2023/assets/50076171/90408d0b-0778-4de2-95c4-1429587c918e)
 
 
 
