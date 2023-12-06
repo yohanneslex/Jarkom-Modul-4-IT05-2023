@@ -40,15 +40,15 @@ Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP terse
 |A8|	Aura-Frieren-Flamme-Himmel-Switch6-SchwerMountains |6|	/29| 10.66.24.96 |	255.255.255.248 |	10.66.24.103|
 |A10|	Aura-Eisen-Switch1-Richter-Switch1-Revolte |3|	/29| 10.66.24.104 |	255.255.255.248 |	10.66.24.111|
 |A1|	Aura-Frieren |2|	/30| 10.66.24.112	| 255.255.255.252 |	10.66.24.115|
-|A3|	Aura-Frieren-Flamme	|2|	/30| 10.66.24.116	255.255.255.252	10.66.24.119|
-|A4|	Aura-Frieren-Flamme-Fern	|2|	/30| 10.66.24.120	255.255.255.252	10.66.24.123|
-|A7|	Aura-Frieren-Flamme-Himmel	|2|	/30| 10.66.24.124	255.255.255.252	10.66.24.127|
+|A3|	Aura-Frieren-Flamme	|2|	/30| 10.66.24.116	| 255.255.255.252 |	10.66.24.119|
+|A4|	Aura-Frieren-Flamme-Fern	|2|	/30| 10.66.24.120 |	255.255.255.252	| 10.66.24.123|
+|A7|	Aura-Frieren-Flamme-Himmel	|2|	/30| 10.66.24.124 |	255.255.255.252 |	10.66.24.127|
 |A9|	Aura-Eisen	|2|	/30| 10.66.24.128	| 255.255.255.252	| 10.66.24.131|
 |A11|	Aura-Eisen-Switch0-Stark	|2|	/30| 10.66.24.132 |	255.255.255.252	| 10.66.24.135|
 |A12|	Aura-Eisen-Lugner	|2|	/30| 10.66.24.136 |	255.255.255.252	| 10.66.24.139|
 |A15|	Aura-Eisen-Linie	|2|	/30| 10.66.24.140 |	255.255.255.252	| 10.66.24.143|
 |A16|	Aura-Eisen-Linie-Lawine	|2|	/30| 10.66.24.144	| 255.255.255.252 |	10.66.24.147|
-|A20|	Aura-Denken	|2|	/30| |10.66.24.148 |	255.255.255.252 |	10.66.24.151|
+|A20|	Aura-Denken	|2|	/30 |10.66.24.148 |	255.255.255.252 |	10.66.24.151|
 
 Setelah dilakukannya pembagian IP, maka mulai membuat topologi menggunakan Cisco Packet Tracer (CPT) seperti gambar berikut
 
